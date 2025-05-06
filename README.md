@@ -32,8 +32,8 @@ This repo helps developers understand how to take an open-source React admin UI 
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/csms-react-admin-template.git
-cd csms-react-admin-template
+git clone https://github.com/Deanzhou0623/csms-react-admin.git
+cd csms-react-admin
 npm install
 ```
 
@@ -68,7 +68,7 @@ csms-react-admin/
 
 ## 🗓 Day-by-Day Customization Guidance
 
-### 📅 Day 1: UI Layout + Routing
+### 📅 Day 1: UI Layout + Routing (Reading coding first!!!!)
 
 * ✅ Replace Sidebar menu items
 * ✅ Set up routes for:
